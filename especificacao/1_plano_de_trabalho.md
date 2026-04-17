@@ -11,7 +11,7 @@ O Slow Down é um aplicativo móvel voltado ao cuidado e prevenção do burnout,
 ## 3. Equipe e Papéis
 * **Kaio Sobral (@kaiosdev):** Scrum Master / Líder do Projeto.
 * **Felipe Rangel (@FelipeRangelSilvestre):** Backlog do Produto & Histórias de Usuário.
-* **Marcos:** Design Thinking - Fase I (Inspiração).
+* **Marcos Oliveira (@marcox-oliveira):** Design Thinking - Fase I (Inspiração).
 * **Evilly Siqueira (@Evelly-Siqueira):** Documentação & Plano de Trabalho.
 * **Nádia Leão (@nadileao):** GitHub Projects & Backlog do Sprint.
 * **Marcelo Barros (@marecelobarrosdasilva-bit):** Personas, Ideação & Análise de Mercado.
