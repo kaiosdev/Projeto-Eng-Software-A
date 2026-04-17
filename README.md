@@ -4,7 +4,7 @@
 
   <img src="https://img.shields.io/badge/Status-Sprint%201-blue?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Engenharia_de_Software_I-ICET--UFAM-green?style=for-the-badge" alt="Disciplina">
-  <img src="https://img.shields.io/github/repo-size/kaio-sobral-moreira/projeto-pratico-es?style=for-the-badge" alt="Repo Size">
+  <img src="https://img.shields.io/github/repo-size/kaiosdev/projeto-pratico-es?style=for-the-badge" alt="Repo Size">
 </div>
 
 ---
@@ -19,10 +19,10 @@ O **Slow Down** é uma solução móvel desenvolvida para auxiliar na prevençã
 
 ## 🚀 Principais Funcionalidades
 
-- **Mascote Virtual (Tamagotchi):** Um pet personalizável que evolui conforme o autocuidado do utilizador.
+- **Mascote Virtual (Tamagotchi):** Um pet personalizável que evolui conforme o autocuidado do usuário.
 - **Missões Diárias e XP:** Sistema de tarefas (ex: 5 min de meditação) que geram pontos de experiência para desbloquear itens e evoluções para o Pet.
 - **Sistema de Conquistas:** Ganho de emblemas digitais, como o "Mente Blindada", ao atingir metas reais de saúde mental.
-- **Monitoramento Emocional:** Termómetro diário para registo de humor e identificação de picos de stress.
+- **Monitoramento Emocional:** Termômetro diário para registro de humor e identificação de picos de estresse.
 - **Sessões de Meditação e Musicoterapia:** Conteúdos relaxantes com suporte total a modo offline.
 - **Integração com Smartwatches:** Monitoramento da frequência cardíaca para análise automatizada de sinais de fadiga.
 - **Acessibilidade:** Navegação *hands-free* via comandos de voz para utilização durante o trabalho.
@@ -35,25 +35,25 @@ A documentação técnica do projeto está organizada na pasta `especificacao/`,
 
 | Arquivo | Descrição |
 | :--- | :--- |
-| [`1_plano-de-trabalho.md`](./especificacao/1_plano-de-trabalho.md) | Escopo, tecnologias e divisão de papéis da equipa. |
+| [`1_plano-de-trabalho.md`](./especificacao/1_plano-de-trabalho.md) | Escopo, tecnologias e divisão de papéis da equipe. |
 | [`2_design-thinking.md`](./especificacao/2_design-thinking.md) | Golden Circle, Análise SWOT, Personas e Ideação. |
-| [`3_backlog-do-produto.md`](./especificacao/3_backlog-do-produto.md) | Lista priorizada de Histórias de Utilizador (User Stories). |
+| [`3_backlog-do-produto.md`](./especificacao/3_backlog-do-produto.md) | Lista priorizada de Histórias de Usuário (User Stories). |
 | [`4_backlog-do-sprint.md`](./especificacao/4_backlog-do-sprint.md) | Acompanhamento das tarefas individuais e links das Dailys. |
 
 ---
 
-## 👥 Equipa do Projeto
+## 👥 Equipe do Projeto
 
 <table align="center">
   <tr>
-    <td align="center"><a href="[https://github.com/kaiosdev/]"><img src="https://github.com/kaiosdev.png" width="100px;" alt=""/><br /><sub><b>Kaio Sobral</b></sub></a><br />Scrum Master</td>
-    <td align="center"><b>Felipe</b><br />Backlog/User Stories</td>
-    <td align="center"><b>Marcos</b><br />Design Thinking I</td>
+    <td align="center"><a href="https://github.com/kaiosdev"><img src="https://github.com/kaiosdev.png" width="100px;" alt=""/><br /><sub><b>Kaio Sobral</b></sub></a><br />Scrum Master</td>
+    <td align="center"><a href="https://github.com/FelipeRangelSilvestre"><img src="https://github.com/FelipeRangelSilvestre.png" width="100px;" alt=""/><br /><sub><b>Felipe Rangel</b></sub></a><br />Backlog/User Stories</td>
+    <td align="center"><img src="https://github.com/github.png" width="100px;" alt=""/><br /><sub><b>Marcos</b></sub><br />Design Thinking I</td>
   </tr>
   <tr>
-    <td align="center"><b>Evilly</b><br />Documentação/Markdown</td>
-    <td align="center"><b>Nádia</b><br />Gestão de Sprints</td>
-    <td align="center"><b>Marcelo</b><br />Personas/Ideação</td>
+    <td align="center"><a href="https://github.com/Evelly-Siqueira"><img src="https://github.com/Evelly-Siqueira.png" width="100px;" alt=""/><br /><sub><b>Evilly Siqueira</b></sub></a><br />Documentação/Markdown</td>
+    <td align="center"><a href="https://github.com/nadileao"><img src="https://github.com/nadileao.png" width="100px;" alt=""/><br /><sub><b>Nádia Leão</b></sub></a><br />Gestão de Sprints</td>
+    <td align="center"><a href="https://github.com/marecelobarrosdasilva-bit"><img src="https://github.com/marecelobarrosdasilva-bit.png" width="100px;" alt=""/><br /><sub><b>Marcelo Barros</b></sub></a><br />Personas/Ideação</td>
   </tr>
 </table>
 
