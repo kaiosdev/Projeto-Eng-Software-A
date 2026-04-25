@@ -1,5 +1,4 @@
 <div align="center">
-  <table width="100%">
     <tr>
       <td align="center" style="background-color: #f8f9fa;">
         <h1 style="color: #2e7d32; margin-bottom: 5px;">🌱 PLANO DE TRABALHO: SLOW DOWN</h1>
