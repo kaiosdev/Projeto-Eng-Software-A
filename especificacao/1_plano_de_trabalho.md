@@ -16,8 +16,8 @@
 
 | Versão | Descrição | Autor | Data |
 |--------|-----------|-------|------|
-| 1.0 | Elaboração do Plano de Trabalho | Felipe Rangel | XX/XX/2025 |
-| 1.1 | Atualização do Plano de Trabalho com revisão de escopo, equipe e metodologia | Evilly | XX/XX/2026 |
+| 1.0 | Elaboração do Plano de Trabalho | Evelly Siqueira | 20/03/2025 |
+| 1.1 | Atualização do Plano de Trabalho com revisão de escopo, equipe e metodologia | Evelly Siqueira | 25/04/2026 |
 
 ---
 
@@ -173,7 +173,7 @@ A equipe do projeto é composta por 6 integrantes, com papéis definidos para ot
 | **Kaio** | Scrum Master / Líder do Projeto | Gerenciar repositório GitHub; configurar estrutura de diretórios; criar quadro Backlog do Produto no GitHub Projects; manter tabela Daily Scrum no Notion; acompanhar progresso da equipe; submeter link do repositório no Google Classroom; preparar e revisar apresentação final |
 | **Felipe** | Backlog do Produto & Histórias de Usuário | Escrever 15+ histórias de usuário no padrão (Enquanto/Desejo/Para); garantir mínimo 10 especificadas com critérios de aceitação e regras de negócio; definir prioridade de cada história; associar histórias às personas; organizar histórias nas colunas do quadro; documentar backlog em `3_backlog-do-produto.md` |
 | **Marcos** | Design Thinking – Fase I (Inspiração) | Elaborar o Golden Circle (Por quê? Como? O quê?); criar imagem da Análise SWOT; documentar resultados em `2_design-thinking.md`; especificar mínimo 3 histórias de usuário no GitHub; contribuir com slides da apresentação |
-| **Evilly** | Documentação & Plano de Trabalho | Preencher Plano de Trabalho completo (seções 1, 2 e 3); descrever escopo geral, específico e negativo; definir ambiente de desenvolvimento; criar e revisar arquivo `1_plano-de-trabalho.md`; especificar mínimo 3 histórias de usuário |
+| **Evelly** | Documentação & Plano de Trabalho | Preencher Plano de Trabalho completo (seções 1, 2 e 3); descrever escopo geral, específico e negativo; definir ambiente de desenvolvimento; criar e revisar arquivo `1_plano-de-trabalho.md`; especificar mínimo 3 histórias de usuário |
 | **Nádia** | GitHub Projects & Backlog do Sprint | Criar e manter quadro Backlog do Sprint no GitHub Projects; atribuir tarefas individuais a cada membro; sincronizar tarefas do Sprint com dailys do Notion; garantir Assignees corretos nas histórias; documentar backlog do sprint em `4_backlog-do-sprint.md` |
 | **Marcelo** | Personas, Ideação & Análise de Mercado | Pesquisar e identificar 3+ soluções existentes (prints + descrição); elaborar quadro comparativo com 5 critérios; criar mínimo 3 personas com técnica PATHY no HubSpot Make My Persona; exportar personas ao repositório; criar página de Ideação no Notion; registrar e consolidar ideias do brainstorming |
 
