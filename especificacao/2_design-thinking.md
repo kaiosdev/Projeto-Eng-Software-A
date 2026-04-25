@@ -2,7 +2,7 @@
     <tr>
       <td align="center" style="background-color: #f8f9fa;">
         <h1 style="color: #1a73e8; margin-bottom: 5px;">💡 DESIGN THINKING: SLOW DOWN</h1>
-        <p><i>Fase I e II - Engenharia de Software I</i></p>
+        <p><i>Fase I e II - Engenharia de Software A</i></p>
         <img src="https://img.shields.io/badge/Versão-1.2-blue?style=for-the-badge" alt="Versão">
         <img src="https://img.shields.io/badge/Status-Sprint%201-green?style=for-the-badge" alt="Status">
       </td>
