@@ -1,10 +1,10 @@
 # Design Thinking - Fase I e II
 
 ## 1. Inspiração - Golden Circle
-O Golden Circle é um modelo de pensamento estratégico criado por Simon Sinek que ajuda a definir o propósito e a proposta de valor de um produto (como um aplicativo) de dentro para fora. Em vez de começar dizendo o que o app faz, o Golden Circle propõe uma lógica mais forte e persuasiva.
-\Por quê (Why) traz o propósito do aplicativo;
-\Como (How) traz a forma como o app funciona ou se diferencia;
-\O quê (What) traz o que o aplicativo é, de fato.
+O Golden Circle é um modelo de pensamento estratégico criado por Simon Sinek que ajuda a definir o propósito e a proposta de valor de um produto (como um aplicativo) de dentro para fora. Em vez de começar dizendo o que o app faz, o Golden Circle propõe uma lógica mais forte e persuasiva.  
+Por quê (Why) traz o propósito do aplicativo;  
+Como (How) traz a forma como o app funciona ou se diferencia;  
+O quê (What) traz o que o aplicativo é, de fato.
 
 * **Por quê?**: Reduzir o burnout em indivíduos e equipes.
 * **Como?**: Uma interface acessível e gamificada que torna o autocuidado natural e não oneroso. Inclui monitoramento contínuo de saúde, relatórios de bem-estar e alertas preventivos antes que o esgotamento se instale.
@@ -12,11 +12,11 @@ O Golden Circle é um modelo de pensamento estratégico criado por Simon Sinek q
 <img width="3000" height="3000" alt="Golden Circle" src="https://github.com/user-attachments/assets/6ab5ecb2-469b-4dbe-a441-d3c5f1a26f6b" />
 
 ## 2. Análise SWOT
-A Análise SWOT é uma ferramenta de planejamento estratégico usada para avaliar a situação de um aplicativo, nesse caso, considerando fatores internos e externos que impactam seu sucesso.
-\Strengths (força) traz os pontos fortes do aplicativo;
-\Weaknesses (fraquezas) traz os pontos fracos internos;
-\Opportunities (oportunidades) traz os fatores externos favoráveis;
-\Threats (ameaças) traz os fatores externos que podem prejudicar o projeto.
+A Análise SWOT é uma ferramenta de planejamento estratégico usada para avaliar a situação de um aplicativo, nesse caso, considerando fatores internos e externos que impactam seu sucesso.  
+Strengths (força) traz os pontos fortes do aplicativo;  
+Weaknesses (fraquezas) traz os pontos fracos internos;  
+Opportunities (oportunidades) traz os fatores externos favoráveis;  
+Threats (ameaças) traz os fatores externos que podem prejudicar o projeto.
 
 **Forças:**
 - Suporte offline nativo; funciona em ambientes com conectividade limitada;
