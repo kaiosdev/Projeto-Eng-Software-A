@@ -1,10 +1,15 @@
 # Design Thinking - Fase I e II
 
 ## 1. Inspiração - Golden Circle
+O Golden Circle é um modelo de pensamento estratégico criado por Simon Sinek que ajuda a definir o propósito e a proposta de valor de um produto (como um aplicativo) de dentro para fora. Em vez de começar dizendo o que o app faz, o Golden Circle propõe uma lógica mais forte e persuasiva.
+Por quê (Why) traz o propósito do aplicativo;
+Como (How) traz a forma como o app funciona ou se diferencia;
+O quê (What) traz o que o aplicativo é, de fato.
+
 * **Por quê?**: Reduzir o burnout em indivíduos e equipes.
 * **Como?**: Uma interface acessível e gamificada que torna o autocuidado natural e não oneroso. Inclui monitoramento contínuo de saúde, relatórios de bem-estar e alertas preventivos antes que o esgotamento se instale.
 * **O quê?**: O app Slow Down em si, com suporte offline para ambientes com conectividade limitada, desafios e recompensas para engajamento, e sincronização de dados de saúde mesmo sem internet.
-<img width="4000" height="4000" alt="Golden Circle" src="https://github.com/user-attachments/assets/6ab5ecb2-469b-4dbe-a441-d3c5f1a26f6b" />
+<img width="3000" height="3000" alt="Golden Circle" src="https://github.com/user-attachments/assets/6ab5ecb2-469b-4dbe-a441-d3c5f1a26f6b" />
 
 ## 2. Análise SWOT
 **Forças:**
