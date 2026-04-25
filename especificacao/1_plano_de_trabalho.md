@@ -1,10 +1,11 @@
 <div align="center">
+  <table width="100%">
     <tr>
       <td align="center" style="background-color: #f8f9fa;">
         <h1 style="color: #2e7d32; margin-bottom: 5px;">🌱 PLANO DE TRABALHO: SLOW DOWN</h1>
         <p><i>Engenharia de Software I - ICET/UFAM</i></p>
         <img src="https://img.shields.io/badge/Versão-1.2-blue?style=for-the-badge" alt="Versão">
-        <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-green?style=for-the-badge" alt="Status">
+        <img src="https://img.shields.io/badge/Status-Concluído-blue?style=for-the-badge" alt="Status">
       </td>
     </tr>
   </table>
@@ -15,8 +16,8 @@
   |:---|:---|
   | **Nome do Projeto** | SlowDown |
   | **Codinome** | Slow |
+  | **Responsável** | Evelly Rebecca |
   | **Coordenador** | Prof. Dr. Andrey Rodrigues |
-  | **Número de Controle** | SRBR-M-2026-001 |
 </div>
 
 ---
@@ -25,10 +26,11 @@
 
 | Versão | Descrição | Autor | Data |
 |:---|:---|:---|:---|
-| 1.0 | Elaboração inicial do Plano de Trabalho. | Evelly Siqueira | 20/03/2026 |
-| 1.1 | Revisão geral do documento. | Evelly Siqueira | 10/04/2026 |
-| 1.2 | Ampliação do contexto para burnout como problema ocupacional universal; reposicionamento do público-alvo. | Evelly Siqueira | 25/04/2026 |
+| 1.0 | Elaboração inicial do Plano de Trabalho. | Evelly Rebecca | 20/03/2026 |
+| 1.1 | Revisão geral do documento. | Evelly Rebecca | 10/04/2026 |
+| 1.2 | Ampliação para burnout ocupacional universal; Versão Final Concluída. | Evelly Rebecca | 25/04/2026 |
 
+---
 
 ## 1. INTRODUÇÃO
 
@@ -40,6 +42,7 @@ Evoluir um aplicativo focado na prevenção do burnout ocupacional em trabalhado
 ### 1.2 Motivação e Justificativa
 A alta incidência de esgotamento emocional em diferentes setores da economia brasileira justifica o desenvolvimento de uma solução acessível e adaptável a diferentes perfis de trabalhadores, que utilize dispositivos móveis para promover o bem-estar de forma contínua. A ausência de ferramentas preventivas — focadas em antecipar o burnout antes do colapso, e não apenas em tratá-lo — representa uma lacuna concreta que o SlowDown se propõe a preencher.
 
+---
 
 ## 2. INFORMAÇÕES GERAIS
 
@@ -61,6 +64,7 @@ O escopo abrange o desenvolvimento e manutenção evolutiva de um aplicativo mob
 * **Metodologia:** Scrum com ciclos iterativos (sprints).
 * **Gestão:** GitHub Projects, Notion e Figma.
 
+---
 
 ## 3. METODOLOGIA E EQUIPE
 
@@ -80,6 +84,7 @@ A distribuição foi estruturada para refletir as funções executadas em cada e
 ### 3.2 Gestão de Comunicação
 As **Dailys** são registadas no Notion de 3 a 4 vezes por semana por cada integrante, permitindo ao Scrum Master e à Gestora de Sprint monitorar impedimentos e o progresso das tarefas.
 
+---
 
 ## 4. PLANEAMENTO FINANCEIRO ESTIMADO
 
