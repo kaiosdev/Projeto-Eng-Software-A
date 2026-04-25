@@ -75,7 +75,7 @@ A **Análise SWOT** (ou FOFA) é utilizada para avaliar a situação do aplicati
 ## 2.1 Soluções Existentes
 # Calm
 <img width="1298" height="683" alt="image" src="https://github.com/user-attachments/assets/e71418a1-d399-4daf-b535-eea205a01bbd" />
-__Descrição:__ Para quem busca viver uma vida mais produtiva e aliviar o estresse, o Calm pode um ótimo app de saúde mental. Disponível na App Store e Google Play Store, o aplicativo foca em lidar com problemas de ansiedade, insônia e depressão. Atualmente, o software conta com exercícios de respiração e alongamento, músicas relaxantes, aulas de meditação guiada, dentre outras funcionalidades. Você consegue baixar e já usar alguns recursos do app na versão gratuita, ou escolher uma assinatura para ter acesso a todo conteúdo.  
+__Descrição:__  Para quem busca viver uma vida mais produtiva e aliviar o estresse, o Calm pode um ótimo app de saúde mental. Disponível na App Store e Google Play Store, o aplicativo foca em lidar com problemas de ansiedade, insônia e depressão. Atualmente, o software conta com exercícios de respiração e alongamento, músicas relaxantes, aulas de meditação guiada, dentre outras funcionalidades. Você consegue baixar e já usar alguns recursos do app na versão gratuita, ou escolher uma assinatura para ter acesso a todo conteúdo.  
 
 # Sanvello
 <img width="1301" height="682" alt="image" src="https://github.com/user-attachments/assets/868ce855-d646-4704-9ebc-4a6f7e532f07" />
