@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color: #1a73e8;">💡 DESIGN THINKING: SLOW DOWN</h1>
-  <p><i>Fase I e II - Engenharia de Soft A</i></p>
+  <p><i>Fase I e II - Engenharia de Software A</i></p>
 
   <img src="https://img.shields.io/badge/Versão-1.2-blue?style=for-the-badge" alt="Versão">
   <img src="https://img.shields.io/badge/Status-Concluído-blue?style=for-the-badge" alt="Status">
@@ -126,5 +126,5 @@ As ideias geradas pela equipe para a evolução do Slow Down estão documentadas
 ---
 
 <div align="center">
-  <p>Trabalho requisitado pelo <b>Prof. Dr. Andrey Rodrigues</b> para a disciplina de <b>Engenharia de Soft A</b> - ICET/UFAM.</p>
+  <p>Trabalho requisitado pelo <b>Prof. Dr. Andrey Rodrigues</b> para a disciplina de <b>Engenharia de Software A</b> - ICET/UFAM.</p>
 </div>
