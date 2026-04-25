@@ -4,6 +4,7 @@
 * **Por quê?**: Reduzir o burnout em indivíduos e equipes.
 * **Como?**: Uma interface acessível e gamificada que torna o autocuidado natural e não oneroso. Inclui monitoramento contínuo de saúde, relatórios de bem-estar e alertas preventivos antes que o esgotamento se instale.
 * **O quê?**: O app Slow Down em si, com suporte offline para ambientes com conectividade limitada, desafios e recompensas para engajamento, e sincronização de dados de saúde mesmo sem internet.
+<img width="4000" height="4000" alt="Golden Circle" src="https://github.com/user-attachments/assets/6ab5ecb2-469b-4dbe-a441-d3c5f1a26f6b" />
 
 ## 2. Análise SWOT
 **Forças:**
@@ -37,6 +38,7 @@
 - Riscos de privacidade e vazamento de dados sensíveis de saúde;
 - Saturação do mercado de apps de bem-estar e saúde mental;
 - Mudanças regulatórias sobre coleta e uso de dados de saúde.
+<img width="2048" height="1536" alt="Análise SWOT" src="https://github.com/user-attachments/assets/dc88cca5-3f2c-4251-9595-a2a18c84c72e" />
 
 ## 3. Personas
 * **Persona 1:** Geilson.
