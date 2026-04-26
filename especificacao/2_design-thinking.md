@@ -14,6 +14,8 @@
 | **Metodologia** | Design Thinking |
 | **Status da Entrega** | Concluído |
 
+</div>
+
 <br>
 
 ---
@@ -22,29 +24,54 @@
 
 O **Golden Circle** é um modelo de pensamento estratégico criado por Simon Sinek que ajuda a definir o propósito e a proposta de valor de um produto de dentro para fora. Em vez de focar apenas no que o app faz, propõe-se uma lógica persuasiva baseada no propósito.
 
-*   **Por quê? (Why - Propósito)**: Milhões de trabalhadores brasileiros convivem com o burnout de forma silenciosa. Nossa missão é atacar a causa raiz do esgotamento emocional antes que ele se torne incapacitante.
-*   **Como? (How - Diferencial)**: Através de uma interface acessível e gamificada que torna o autocuidado natural, com suporte offline nativo para ambientes com conectividade limitada.
-*   **O quê? (What - Resultado)**: O aplicativo **Slow Down**, funcional, com suporte offline, desafios e recompensas voltado a trabalhadores de qualquer setor.
+* **Por quê? (Why - Propósito)**: Milhões de trabalhadores brasileiros convivem com o burnout de forma silenciosa. Nossa missão é atacar a causa raiz do esgotamento emocional antes que ele se torne incapacitante.
+* **Como? (How - Diferencial)**: Através de uma interface acessível e gamificada que torna o autocuidado natural, com suporte offline nativo para ambientes com conectividade limitada.
+* **O quê? (What - Resultado)**: O aplicativo **Slow Down**, funcional, com suporte offline, desafios e recompensas voltado a trabalhadores de qualquer setor.
 
 <br>
 
-<img width="600" alt="Diagrama do Golden Circle para o Slow Down" src="https://github.com/user-attachments/assets/6ab5ecb2-469b-4dbe-a441-d3c5f1a26f6b" />
-<p><i><b>Descrição da Imagem 1:</b> Representação visual do Golden Circle composta por três círculos concêntricos definindo o propósito (Why), a estratégia (How) e o produto (What) do Slow Down.</i></p>
+<div align="center">
+  <img width="600" alt="Diagrama do Golden Circle para o Slow Down" src="https://github.com/user-attachments/assets/6ab5ecb2-469b-4dbe-a441-d3c5f1a26f6b" />
+  <p><i><b>Descrição da Imagem 1:</b> Representação visual do Golden Circle composta por três círculos concêntricos definindo o propósito (Why), a estratégia (How) e o produto (What) do Slow Down.</i></p>
+</div>
 
 <br>
 
+---
 
 ## 2. ANÁLISE SWOT
 
 A **Análise SWOT** (ou FOFA) avalia a situação do aplicativo considerando fatores internos e externos que impactam o sucesso do projeto.
 
+### **Fatores Internos**
+* **Forças (Strengths):**
+    - Suporte offline nativo para ambientes com conectividade limitada.
+    - Gamificação como motor de engajamento e adesão contínua.
+    - Abordagem preventiva, focada na antecipação do esgotamento.
+    - Interface intuitiva com baixíssima curva de aprendizado.
+* **Fraquezas (Weaknesses):**
+    - Dependência de autorrelato (sujeito a imprecisões do usuário).
+    - Necessidade de validação clínica para credibilidade médica.
+
+### **Fatores Externos**
+* **Oportunidades (Opportunities):**
+    - Crescimento da consciência corporativa sobre saúde mental em todos os setores.
+    - OMS reconheceu o burnout como fenômeno ocupacional em 2019.
+    - Parcerias estratégicas com RHs e programas de bem-estar corporativo.
+* **Ameaças (Threats):**
+    - Concorrência de apps consolidados (Headspace, Calm).
+    - Estigma cultural que pode reduzir a adoção inicial.
+
 <br>
 
-<img width="600" alt="Matriz SWOT do projeto Slow Down" src="https://github.com/user-attachments/assets/dc88cca5-3f2c-4251-9595-a2a18c84c72e" />
-<p><i><b>Descrição da Imagem 2:</b> Matriz SWOT detalhando Forças e Fraquezas (fatores internos) e Oportunidades e Ameaças (fatores externos).</i></p>
+<div align="center">
+  <img width="600" alt="Matriz SWOT do projeto Slow Down" src="https://github.com/user-attachments/assets/dc88cca5-3f2c-4251-9595-a2a18c84c72e" />
+  <p><i><b>Descrição da Imagem 2:</b> Matriz SWOT detalhando Forças e Fraquezas (fatores internos) e Oportunidades e Ameaças (fatores externos).</i></p>
+</div>
 
 <br>
 
+---
 
 ## 2.1 Soluções Existentes
 
@@ -74,6 +101,7 @@ A **Análise SWOT** (ou FOFA) avalia a situação do aplicativo considerando fat
 
 <br>
 
+---
 
 ## 2.2 Quadro Comparativo de Soluções Existentes
 
@@ -86,12 +114,15 @@ A **Análise SWOT** (ou FOFA) avalia a situação do aplicativo considerando fat
 
 <br>
 
+---
 
 ## 3. CONHECENDO O USUÁRIO - PERSONAS
 
 As personas foram criadas com a técnica PATHY para representar contextos profissionais distintos afetados pelo burnout.
 
 <br>
+
+<div align="center">
 
 ### Persona 1 — Geilson Alves
 <img width="800" alt="Persona Geilson Alves - Perfil" src="https://github.com/user-attachments/assets/e2e4e8a6-93a9-47f8-b260-8794ca8a5eda" />
@@ -112,20 +143,25 @@ As personas foram criadas com a técnica PATHY para representar contextos profis
 <img width="800" alt="Persona Ana Beatriz - Mapa de Empatia" src="https://github.com/user-attachments/assets/464263d9-c73c-4f30-9d05-b0754e5a9c9e" />
 <p><i><b>Descrição Ana:</b> Profissional de tecnologia com alta carga mental. O mapa detalha a dificuldade em desconectar e a busca por pausas de autocuidado em uma rotina acelerada.</i></p>
 
+</div>
+
 <br>
 
 ---
 
 ## 4. IDEAÇÃO E BRAINSTORMING
 
-O processo de ideação priorizou funcionalidades como o **Pet Virtual**, **Missões de XP** e o **Botão S.O.S**.
+O processo de ideação priorizou funcionalidades como o **Pet Virtual**, **Missões de XP** e a **Rede de Apoio (Pessoa Próxima e Chatbot)**, conectando-se diretamente às histórias de usuário mapeadas no escopo.
 
 👉 **[Acessar Quadro de Ideação no Notion](https://olive-ankle-b99.notion.site/337b9fbbb879804d8201d7467ea98f58?v=337b9fbbb87980f0abd5000cac026dda&source=copy_link)**
 
 <br>
 
+
 ---
 
 <div align="center">
-  <p>Trabalho requisitado pelo <b>Prof. Dr. Andrey Rodrigues</b> para a disciplina de <b>Engenharia de Software A</b> - ICET/UFAM.</p>
+
+  <sub>Desenvolvido para a disciplina de Engenharia de Software A - ICET/UFAM. <br /> Professor: Dr. Andrey Rodrigues</sub>
+
 </div>
