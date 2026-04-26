@@ -37,7 +37,6 @@ O **Golden Circle** é um modelo de pensamento estratégico criado por Simon Sin
 
 <br>
 
----
 
 ## 2. ANÁLISE SWOT
 
@@ -71,7 +70,6 @@ A **Análise SWOT** (ou FOFA) avalia a situação do aplicativo considerando fat
 
 <br>
 
----
 
 ## 2.1 Soluções Existentes
 
@@ -101,7 +99,6 @@ A **Análise SWOT** (ou FOFA) avalia a situação do aplicativo considerando fat
 
 <br>
 
----
 
 ## 2.2 Quadro Comparativo de Soluções Existentes
 
@@ -114,7 +111,6 @@ A **Análise SWOT** (ou FOFA) avalia a situação do aplicativo considerando fat
 
 <br>
 
----
 
 ## 3. CONHECENDO O USUÁRIO - PERSONAS
 
@@ -147,7 +143,6 @@ As personas foram criadas com a técnica PATHY para representar contextos profis
 
 <br>
 
----
 
 ## 4. IDEAÇÃO E BRAINSTORMING
 
