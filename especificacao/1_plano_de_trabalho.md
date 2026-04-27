@@ -10,7 +10,7 @@
   |:---|:---|
   | **Nome do Projeto** | SlowDown |
   | **Versão** | 1.2 |
-  | **Responsável** | Evelly Rebecca |
+  | **Responsável** | Evelly Rebeca |
   | **Executor Principal** | Kaio Sobral Moreira |
   | **Coordenador** | Prof. Dr. Andrey Rodrigues |
   | **Número de Controle** | SRBR-M-2026-001 |
