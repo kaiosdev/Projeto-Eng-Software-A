@@ -1,10 +1,9 @@
 <div align="center">
-  <h1>🌱 Slow Down</h1>
+  <h1>🧘 Slow Down</h1>
   <p><i>Aplicativo de Apoio ao Cuidado contra o Burnout</i></p>
 
   <img src="https://img.shields.io/badge/Status-Sprint%201-blue?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Engenharia_de_Software_A-ICET--UFAM-green?style=for-the-badge" alt="Disciplina">
-  <img src="https://img.shields.io/github/repo-size/kaiosdev/projeto-pratico-es?style=for-the-badge" alt="Repo Size">
 </div>
 
 ---
@@ -26,6 +25,17 @@ O **Slow Down** é uma solução móvel desenvolvida para auxiliar na prevençã
 - **Sleepcasts e Meditação:** Conteúdos de áudio relaxantes e histórias descritivas com suporte total ao modo offline.
 - **Acessibilidade:** Navegação *hands-free* via comandos de voz para utilização prática e sem uso das mãos.
 
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+- **Gestão Ágil (Scrum):** GitHub Projects (Quadros Kanban)
+- **Comunicação e Dailys:** Notion e Google Meets
+- **Versionamento de Código:** GitHub
+- **Design, Artes e UI:** Canva
+- **Apoio e Assistência (IA):** Gemini e Claude
+
+---
 
 ## 📁 Estrutura do Repositório
 
@@ -38,6 +48,7 @@ A documentação técnica do projeto está organizada na pasta `especificacao/`,
 | [`3_backlog-do-produto.md`](/especificacao/3_backlog-do-produto.md) | Lista priorizada de Histórias de Usuário (User Stories). |
 | [`4_backlog-do-sprint.md`](/especificacao/4_backlog-do-sprint.md) | Acompanhamento das tarefas individuais e links das Dailys. |
 
+---
 
 ## 👥 Equipe do Projeto
 
@@ -60,14 +71,11 @@ A documentação técnica do projeto está organizada na pasta `especificacao/`,
 
 - **[Sessão de Brainstorming (Notion)](https://olive-ankle-b99.notion.site/337b9fbbb879804d8201d7467ea98f58?v=337b9fbbb87980f0abd5000cac026dda&source=copy_link)**
 - **[Tabela de Daily Scrum (Notion)](https://olive-ankle-b99.notion.site/337b9fbbb879809eaba8e4c396261dd8?v=337b9fbbb879808aaa2d000c3a648f09&source=copy_link)**
-- **[Quadro do Backlog (GitHub Projects)](https://github.com/users/kaiosdev/projects/5)**
-- **[Quadro do Backlog do Sprint (GitHub Projects)](https://github.com/users/kaiosdev/projects/6)**
+- **[Quadro do Backlog do Produto (GitHub Projects)](https://github.com/users/kaiosdev/projects/5)**
+- **[Quadro do Backlog da Sprint 1 (GitHub Projects)](https://github.com/users/kaiosdev/projects/6)**
 
 ---
 
-
 <div align="center">
-
   <sub>Desenvolvido para a disciplina de Engenharia de Software A - ICET/UFAM. <br /> Professor: Dr. Andrey Rodrigues</sub>
-
 </div>
