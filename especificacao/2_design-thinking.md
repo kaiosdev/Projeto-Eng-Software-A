@@ -102,7 +102,7 @@ A **Análise SWOT** (ou FOFA) avalia a situação do aplicativo considerando fat
 
 ## 2.2 Quadro Comparativo de Soluções Existentes
 
-| Critérios / Soluções | Solução A — Calm | Solução B — Sanvello | Solução C — Headspace | Solução D — Happify | Solução E — Cíngulo | Solução F — Buddhify | ⭐ Nossa Solução — Slow Down |
+| Critérios / Soluções | Solução A — Calm | Solução B — Sanvello | Solução C — Headspace | Solução D — Happify | Solução E — Cíngulo | Solução F — Buddhify | ⭐Nossa Solução — Slow Down |
 |:---|:---|:---|:---|:---|:---|:---|:---|
 | **Modelo de Negócio** | Freemium / Assinatura Premium | Freemium / Plano Clínico Pago | Freemium / Assinatura Anual ou Mensal | Freemium / Assinatura Premium | Freemium / Plano Terapêutico Pago | Compra única (app pago) | **Freemium com sistema de XP e Recompensas** |
 | **Tecnologia Utilizada** | Mobile / Web | Mobile / Web + Telessaúde | Mobile / Web + IA | Mobile / Web + Gamificação | Mobile / IA Emocional | Mobile | **Mobile / IA / Offline nativo** |
