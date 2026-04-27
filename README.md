@@ -32,6 +32,7 @@ O **Slow Down** é uma solução móvel desenvolvida para auxiliar na prevençã
 - **Gestão Ágil (Scrum):** GitHub Projects (Quadros Kanban)
 - **Comunicação e Dailys:** Notion e Google Meets
 - **Versionamento de Código:** GitHub
+- **Criação de Personas:** HubSpot - Make My Persona
 - **Design, Artes e UI:** Canva
 - **Apoio e Assistência (IA):** Gemini e Claude
 
