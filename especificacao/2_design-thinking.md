@@ -116,8 +116,6 @@ A **Análise SWOT** (ou FOFA) avalia a situação do aplicativo considerando fat
 
 ## 3. CONHECENDO O USUÁRIO - PERSONAS
 
-As personas foram criadas com a técnica PATHY para representar contextos profissionais distintos afetados pelo burnout.
-
 <br>
 
 <div align="center">
